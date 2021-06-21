@@ -1,0 +1,3 @@
+﻿  CATEGORIES.cpp
+D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\CATEGORIES\CATEGORIES.cpp(20,47): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CATEGORIES.vcxproj -> D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\Debug\CATEGORIES.exe

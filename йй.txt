@@ -1,0 +1,5 @@
+"a - even
+a, YES - even, NO - odd
+a, b: YES - both even
+a, b: YES - equal even
+a - prime"

@@ -1,0 +1,3 @@
+﻿  GUESSTHENUMBER.cpp
+D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\GUESSTHENUMBER\GUESSTHENUMBER.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GUESSTHENUMBER.vcxproj -> D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\Debug\GUESSTHENUMBER.exe

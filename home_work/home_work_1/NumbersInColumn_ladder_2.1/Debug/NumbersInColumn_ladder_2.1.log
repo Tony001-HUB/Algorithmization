@@ -1,0 +1,4 @@
+﻿  NumbersInColumn_ladder_2.1.cpp
+D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\NumbersInColumn_ladder_2.1\NumbersInColumn_ladder_2.1.cpp(7,23): warning C4305: инициализация: усечение из "__int64" в "int"
+D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\NumbersInColumn_ladder_2.1\NumbersInColumn_ladder_2.1.cpp(7,13): warning C4309: инициализация: усечение константного значения
+  NumbersInColumn_ladder_2.1.vcxproj -> D:\devincubator\algorithmicization\first_Project\home_work\home_work_1\Debug\NumbersInColumn_ladder_2.1.exe
